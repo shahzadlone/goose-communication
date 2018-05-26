@@ -28,7 +28,7 @@
 #### NodeJS installation commands Raspbian
 -Current version: 8.9.0
 -``` curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash ```
-- ```sudo apt-get nodejs```
+- ```sudo apt-get install nodejs```
 
 #### Test Network Protocol Speeds to Pi from Laptop over WiFi
 - TCP: 18ms-19ms per 100 packets
